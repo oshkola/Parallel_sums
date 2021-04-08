@@ -8,3 +8,5 @@ Return -1 if that's inpossible.
 If that's possible, return the string representation of the first array followed by the second one with
 each integer separated by comma and both arrays sorted in ascending order. The set that goes first is the one with the 
 smallest first element.
+
+[![Build Status](https://travis-ci.com/oshkola/Parallel_sums.svg?branch=main)](https://travis-ci.com/oshkola/Parallel_sums)
