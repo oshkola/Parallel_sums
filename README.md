@@ -1,5 +1,4 @@
-## Parallel_sums
-
+# Parallel_sums
 Solution to the technical task.
 
 Take the integer array with the even number of elements. Split the array
