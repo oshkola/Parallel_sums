@@ -72,7 +72,7 @@ int doRoutine(int arr[], int length)
     }
     else
     {
-        while(true)
+        for(int i = 0; i < length; i++)
         {
             rotateArr(arr, length);
             if(isEqual(arr, length))
