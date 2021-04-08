@@ -1,0 +1,7 @@
+language: cpp
+
+compiler: gcc
+  
+script:
+- g++ split_array.cpp -o split_array
+- ./split_array
